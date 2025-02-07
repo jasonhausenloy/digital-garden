@@ -43,6 +43,8 @@ const config: QuartzConfig = {
           textHighlight: "rgba(143, 159, 169, 0.4)",
         },
       },
+      cdnCaching: true,
+      fontOrigin: "googleFonts",
     },
   },
   plugins: {

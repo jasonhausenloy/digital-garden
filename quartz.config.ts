@@ -10,7 +10,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "jason.ml",
+    baseUrl: "jasonhausenloy.github.io/digital-garden",
     ignorePatterns: ["!public", "!content", "private", "*.private"],
     defaultPublish: false,
     theme: {
